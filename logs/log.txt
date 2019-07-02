@@ -1,0 +1,42 @@
+Array
+(
+    [0] => 1264423393668525
+    [1] => 1406390809437266
+)
+
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id ORDER BY infos.send_date ASC LIMIT 30;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id ORDER BY infos.send_date ASC LIMIT 30;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id ORDER BY infos.send_date ASC LIMIT 30;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id ORDER BY infos.send_date ASC LIMIT 30;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id ORDER BY infos.send_date ASC LIMIT 30;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id ORDER BY infos.send_date ASC LIMIT 30;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id ORDER BY infos.send_date ASC LIMIT 30;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id ORDER BY infos.send_date ASC LIMIT 30;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id WHERE infos.sent=0 ORDER BY infos.send_date ASC LIMIT 1;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id WHERE infos.sent=0 ORDER BY infos.send_date ASC LIMIT 1;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id WHERE infos.sent=0 ORDER BY infos.send_date ASC LIMIT 1;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id WHERE infos.sent=0 ORDER BY infos.send_date ASC LIMIT 1;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id WHERE infos.sent=0 ORDER BY infos.send_date ASC LIMIT 1;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id WHERE infos.sent=0 ORDER BY infos.send_date ASC LIMIT 1;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id ORDER BY infos.send_date ASC LIMIT 30;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id WHERE infos.sent=0 ORDER BY infos.send_date ASC LIMIT 1;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id WHERE infos.sent=0 ORDER BY infos.send_date ASC LIMIT 1;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id WHERE infos.sent=0 ORDER BY infos.send_date ASC LIMIT 1;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id WHERE infos.sent=0 ORDER BY infos.send_date ASC LIMIT 1;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id WHERE infos.sent=0 ORDER BY infos.send_date ASC LIMIT 1;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id WHERE infos.sent=0 ORDER BY infos.send_date ASC LIMIT 1;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id WHERE infos.sent=0 ORDER BY infos.send_date ASC LIMIT 1;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id WHERE infos.sent=0 ORDER BY infos.send_date ASC LIMIT 1;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id WHERE infos.sent=0 ORDER BY infos.send_date ASC LIMIT 1;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id WHERE infos.sent=0 ORDER BY infos.send_date ASC LIMIT 1;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id WHERE infos.sent=0 ORDER BY infos.send_date ASC LIMIT 1;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id ORDER BY infos.send_date ASC LIMIT 30;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id ORDER BY infos.send_date ASC LIMIT 30;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id ORDER BY infos.send_date ASC LIMIT 30;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id ORDER BY infos.send_date ASC LIMIT 30;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id ORDER BY infos.send_date ASC LIMIT 30;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id ORDER BY infos.send_date ASC LIMIT 30;
+INSERT INTO infos (content,image,send_date,user_id) VALUES ('هلو ي ام هير :)', '', 1512684000, '1')
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id ORDER BY infos.send_date ASC LIMIT 30;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id ORDER BY infos.send_date ASC LIMIT 30;
+SELECT infos.*, users.fullname FROM infos INNER JOIN users ON infos.user_id=users.id ORDER BY infos.send_date ASC LIMIT 30;

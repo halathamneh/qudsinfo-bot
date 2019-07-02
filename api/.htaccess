@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile /home/qudsin5/bot.qudsinfo.com/api/.htpasswd
+Require valid-user
